@@ -23,18 +23,18 @@
 
 ### Assignment 4 (Hypothesis Testing and Chi-Square Testing)
   #### Hypotheis Testing
-    Objective : To investigate the restaurant owners' claim about the increase in weekly operating costs using hypothesis testing.
-    ##### Tasks:
-      1. State the Hypothesis Statement.
-      2. Calculate the Test Statistic.
-      3. Deterin the Critical Value
-      4. Make a decision
-      5. Conclusion
+  Objective : To investigate the restaurant owners' claim about the increase in weekly operating costs using hypothesis testing.
+  Tasks:
+    1. State the Hypothesis Statement.
+    2. Calculate the Test Statistic.
+    3. Deterin the Critical Value
+    4. Make a decision
+    5. Conclusion
   #### Chi-Square Testing
-    Objective : To use the Chi-Square test for independence to determine if there's a significant association between the type of smart home device purchased (Smart Thermostats vs. Smart Lights) and the customer satisfaction level.
-    ##### Tasks:
-      1.  State the Hypotheses.
-      2.  Compute the Chi-Square Statistic.
-      3. Determine the Critical Value.
-      4. Make a Decision.
-      5. Conclusion
+  Objective : To use the Chi-Square test for independence to determine if there's a significant association between the type of smart home device purchased (Smart Thermostats vs. Smart Lights) and the customer satisfaction level.
+  Tasks:
+    1.  State the Hypotheses.
+    2.  Compute the Chi-Square Statistic.
+    3. Determine the Critical Value.
+    4. Make a Decision.
+    5. Conclusion
