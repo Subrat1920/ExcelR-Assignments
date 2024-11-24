@@ -45,3 +45,16 @@ This assignment is based on Exploratory Data Analysis on a dataset cardiographic
   4. Pattern Recognition and Insights
   5. Conclusion
 
+### Assignment 6 Multiple Linear Regression)
+This folder contains the solution for the Assignment 6 - Multiple Linear Regression, using Linear Regression, Lasso Regression and Ridge Regression. The solution also contains hyper-parameter tunning technique using Grid Search CV and cross-validation technique using StratifiedKFolds
+##### Tasks:
+  1. Exploratory Data Analysis (Histogram, Bar Plot, Pie Chart, Box Plot)
+  2. Statistical Summary
+  3. Data Pre-Processing (One Hot Encoding)
+  4. Data Spliting (Independet and Dependent Variables)
+  5. Splitting the Data into 20% Testing and 80% Training
+  6. Model Selection (Linear Regression, Lasso Regression, Ridge Regression)
+  7. Hyperparameter Tuning (Grid Search CV)
+  8. Cross Validation (StratifiedKFolds)
+  9. Performance Evaluation 
+  10. Interview Questions 
