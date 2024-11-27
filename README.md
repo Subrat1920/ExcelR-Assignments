@@ -45,7 +45,7 @@ This assignment is based on Exploratory Data Analysis on a dataset cardiographic
   4. Pattern Recognition and Insights
   5. Conclusion
 
-### Assignment 6 Multiple Linear Regression)
+### Assignment 6 (Multiple Linear Regression)
 This folder contains the solution for the Assignment 6 - Multiple Linear Regression, using Linear Regression, Lasso Regression and Ridge Regression. The solution also contains hyper-parameter tunning technique using Grid Search CV and cross-validation technique using StratifiedKFolds
 ##### Tasks:
   1. Exploratory Data Analysis (Histogram, Bar Plot, Pie Chart, Box Plot)
@@ -58,3 +58,15 @@ This folder contains the solution for the Assignment 6 - Multiple Linear Regress
   8. Cross Validation (StratifiedKFolds)
   9. Performance Evaluation 
   10. Interview Questions 
+
+### Assignment 7 (Logistic Regression)
+This assignment has Titanic Dataset, which has some features, according to which we have to predict the survival of the passengers. It also has deployment code snippet using stremlit.
+###### Tasks
+  1. Data Exploration
+  2. Data Preprocessing
+  3. Model Building
+  4. Model Evaluation
+  5. Interpretation
+  6. Pickling the Model
+  7. Deployment (Streamlit)
+  8. Interview Questions
