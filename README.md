@@ -70,3 +70,14 @@ This assignment has Titanic Dataset, which has some features, according to which
   6. Pickling the Model
   7. Deployment (Streamlit)
   8. Interview Questions
+
+### Assignment 8 (Clustering Algorithms)
+The objective of this assignment is to introduce to various clustering algorithms, including K-Means Clustering, Hierarchial Clustering and DBSCAN, and provide hands-on experience in applying these techniques to a real-world datasets.
+
+###### Tasks
+  1. Data Pre-Processing
+  2. Implementing Clustering Algorithms
+  3. Cluster Analysis and Interpretation
+  4. Vizualization
+  5. Evaluation and Performance Metrics
+  
