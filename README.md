@@ -15,6 +15,7 @@
 
 ### Assignment 3 (Basic Python Programming Assignment)
   Detailed comments in each of the codes, with the explanation to the approach. The assignment also have test cases.
+###### Tasks
   1. Prime Numbers
   2. Product of Random Numbers
   3. Squares of Even/Odd Numbers
@@ -23,13 +24,13 @@
 
 ### Assignmenr 4 (Hypothesis Testing and Chi-Square Testing)
 #### Hypothesis Testing
-##### Objective:
+###### Objective:
   To investigate the restaurant owners' claim about the increase in weekly operating costs using hypothesis testing.
 1. Null and Alternative Hypothesis
 2. Calculate The Test Statistics.
 
 #### Chi-Square Testing
-##### Objective:
+###### Objective:
   To use the Chi-Square test for independence to determine if there's a significant association between the type of smart home device purchased (Smart Thermostats vs. Smart Lights) and the customer satisfaction level.
 1. State the Hypothesis 
 2. Calculate the Chi-Square Test Statistic
@@ -38,7 +39,7 @@
 
 ### Assignment 5 (Exploratory Data Analysis on a Dataset{cardiographic.csv})
 This assignment is based on Exploratory Data Analysis on a dataset cardiographic.csv. The notebook is a ipynb file and it has all the asked queston's answer.
-##### Tasks:
+###### Tasks:
   1. Data Cleaning and Preparations
   2. Statistical Summary
   3. Data Vizualization
@@ -47,7 +48,7 @@ This assignment is based on Exploratory Data Analysis on a dataset cardiographic
 
 ### Assignment 6 (Multiple Linear Regression)
 This folder contains the solution for the Assignment 6 - Multiple Linear Regression, using Linear Regression, Lasso Regression and Ridge Regression. The solution also contains hyper-parameter tunning technique using Grid Search CV and cross-validation technique using StratifiedKFolds
-##### Tasks:
+###### Tasks:
   1. Exploratory Data Analysis (Histogram, Bar Plot, Pie Chart, Box Plot)
   2. Statistical Summary
   3. Data Pre-Processing (One Hot Encoding)
@@ -80,4 +81,3 @@ The objective of this assignment is to introduce to various clustering algorithm
   3. Cluster Analysis and Interpretation
   4. Vizualization
   5. Evaluation and Performance Metrics
-  
