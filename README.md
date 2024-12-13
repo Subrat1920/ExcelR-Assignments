@@ -81,3 +81,14 @@ The objective of this assignment is to introduce to various clustering algorithm
   3. Cluster Analysis and Interpretation
   4. Vizualization
   5. Evaluation and Performance Metrics
+
+### Assignment 9 (PCA : Principal Component Analysis)
+This assignment is based on PCA (Principal Component Analysis) and it has the following tasks:
+
+###### Tasks
+  1. Exploratory Data Analysis (EDA)
+  2. Dimensionality Reduction with PCA
+  3. Cluster with Original Data
+  4. Cluster with PCA Data
+  5. Comparison and Analysis
+  6. Conclusion and Insights
