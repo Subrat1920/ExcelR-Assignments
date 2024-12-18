@@ -92,3 +92,11 @@ This assignment is based on PCA (Principal Component Analysis) and it has the fo
   4. Cluster with PCA Data
   5. Comparison and Analysis
   6. Conclusion and Insights
+
+### Assignment 10 ASSOCIATION RULES)
+The Objective of this assignment is to introduce students to rule mining techniques, particularly focusing onmarket basket analysis and provide hands on experience.
+###### Tasks
+    1. Data Pre-Processing
+    2. Association Rule Minning (Apriori Algorithm)
+    3. Analysis and Interpretation
+    4. Interview Questions
