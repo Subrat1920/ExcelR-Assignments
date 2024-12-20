@@ -100,3 +100,12 @@ The Objective of this assignment is to introduce students to rule mining techniq
   2. Association Rule Minning (Apriori Algorithm)
   3. Analysis and Interpretation
   4. Interview Questions
+
+### Assignment 11 (Recommendation System)
+The objective of this assignment is to implement a recommendation system using cosine similarity on an anime dataset. 
+###### Tasks
+  1. Data Pre-Processing
+  2. Feature Extraction
+  3. Recommendation System
+  4. Evaluation and Analysis
+  5. Interview Questions
