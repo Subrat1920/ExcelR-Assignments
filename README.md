@@ -113,13 +113,13 @@ The objective of this assignment is to implement a recommendation system using c
 ### Assignment 12 (Data Pre-Processing and Feature Engineering in Machine Learning)
 The objective of this assignment is to equip you with practical skills in data preprocessing, feature engineering, and feature selection techniques, which are crucial for building efficient machine learning models. You will work with a provided dataset to apply various techniques such as scaling, encoding, and feature selection methods including isolation forest and PPS score analysis.
 ###### Tasks
-  1. Data Exploration and Pre-Preprocessing
-    i.  Standard Scaler
-    ii. Min-Max Scaler
-  2. Encoding Techniques 
-    i.  One-Hot-Encoding 
-    ii. Label Encoding
-  3. Feature Engineering
-  4. Feature Selection
-    i.  Isolation Forest
+  1. Data Exploration and Pre-Preprocessing <br>
+    i.  Standard Scaler <br>
+    ii. Min-Max Scaler  <br>
+  2. Encoding Techniques <br>
+    i.  One-Hot-Encoding <br>
+    ii. Label Encoding  <br>
+  3. Feature Engineering<br>
+  4. Feature Selection<br>
+    i.  Isolation Forest<br>
     ii. PPS (Predictive Power Score)
