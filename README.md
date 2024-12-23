@@ -123,3 +123,15 @@ The objective of this assignment is to equip you with practical skills in data p
   4. Feature Selection<br>
     i.  Isolation Forest<br>
     ii. PPS (Predictive Power Score)
+  
+## Assignment 13 (Decision Tree)
+The objective of this assignment is to apply Decision Tree Classification to a given dataset, analyse the performance of the model, and interpret the results.
+###### Tasks
+  1. Data Preparations
+  2. Data Pre-Preprocessing
+  3. Exploratory Data Analysis (EDA)
+  4. Feature Engineering
+  5. Decision Tree Classification
+  6. Hyper-Parameter Tunning 
+  7. Model Evaluation and Analysis
+  8. Interview Questions
