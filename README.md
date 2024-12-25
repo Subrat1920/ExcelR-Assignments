@@ -135,3 +135,13 @@ The objective of this assignment is to apply Decision Tree Classification to a g
   6. Hyper-Parameter Tunning 
   7. Model Evaluation and Analysis
   8. Interview Questions
+
+## Assignment 14 (Random Forest Classifier)
+The objective of this assignment is to apply Random Forest Classification to a given dataset, analyse the performance of the model, and interpret the results.
+###### Tasks
+  1. Exploratory Data Analysis (EDA)
+  2. Data Vizualization
+  3. Data Pre-Processing
+  4. Random Forest Classifier
+  5. Bagging and Boosting Techniques
+  6. Additional Notes
