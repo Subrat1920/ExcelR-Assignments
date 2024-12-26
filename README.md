@@ -145,3 +145,12 @@ The objective of this assignment is to apply Random Forest Classification to a g
   4. Random Forest Classifier
   5. Bagging and Boosting Techniques
   6. Additional Notes
+
+## Assignment 15 (LGBM & XGBM)
+The objective of this assignment is to compare the performance of Light GBM and XG Boost algorithms using the Titanic dataset.
+###### Tasks
+  1. Exploratory Data Analysis
+  2. Data Pre-Processing
+  3. Model Building
+  4. Model Evaluation
+  5. Comparative Analysis
