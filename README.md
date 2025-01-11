@@ -1,5 +1,4 @@
 # ExcelR-Assignments
-=====================
 ### How to clone this repository
 To clone this repository, you can use the following command in your terminal:
 ###### Open Terminal 
