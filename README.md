@@ -3,13 +3,13 @@
 ### How to clone this repository
 To clone this repository, you can use the following command in your terminal:
 ###### Open Terminal 
-  window + r 
+      window + r 
 ###### Copy the URL 
-  https://github.com/Subrat1920/ExcelR-Assignments.git
+      https://github.com/Subrat1920/ExcelR-Assignments.git
 ###### Clone this repository
-  git clone https://github.com/Subrat1920/ExcelR-Assignments.git
+      git clone https://github.com/Subrat1920/ExcelR-Assignments.git
 ###### Move to the directory
-  cd ExcelR-Assignments 
+      cd ExcelR-Assignments 
 
 ###### This repository contains all the solutions of assignments provided by ExcelR for the course Data Science
 ### Assignment 1 (Basics Statistics - 1)
