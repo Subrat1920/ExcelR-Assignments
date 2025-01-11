@@ -154,3 +154,15 @@ The objective of this assignment is to compare the performance of Light GBM and 
   3. Model Building
   4. Model Evaluation
   5. Comparative Analysis
+
+## Assignment 16 (K-Nearest Neighbours)
+The objective of this assignment is to implement and evaluate the K-Nearest Neighbours algorithm for classification using the given datasets
+###### Tasks
+  1. Exploratory Data Analysis
+  2. Data Pre-Processing
+  3. Model Building
+  4. Hyperparameter Tunning
+  5. Model Evaluation
+  6. Decision Boundaries
+  7. Interview Questions
+
