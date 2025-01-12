@@ -179,3 +179,13 @@ The objective of this assignment is to implement and evaluate the K-Nearest Neig
   6. Decision Boundaries
   7. Interview Questions
 
+## Assignment 16 (Support Vector Classifier)
+For this assignment, we'll utilize the widely recognized Mushroom Dataset
+###### Tasks
+  1. Exploratory Data Analysis
+  2. Data Pre-Processing
+  3. Data Visualization
+  4. SVM Implementation
+  5. Visualization of SVM Results
+  6. Parameter Tuning and Optimization
+  7. Comparison and Analysis
