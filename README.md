@@ -179,7 +179,7 @@ The objective of this assignment is to implement and evaluate the K-Nearest Neig
   6. Decision Boundaries
   7. Interview Questions
 
-## Assignment 16 (Support Vector Classifier)
+## Assignment 17 (Support Vector Classifier)
 For this assignment, we'll utilize the widely recognized Mushroom Dataset
 ###### Tasks
   1. Exploratory Data Analysis
@@ -189,3 +189,23 @@ For this assignment, we'll utilize the widely recognized Mushroom Dataset
   5. Visualization of SVM Results
   6. Parameter Tuning and Optimization
   7. Comparison and Analysis
+
+## Assignment 18 (Support Vector Classifier)
+Classification using Artificial Neural Networks with Hyper-Parameter Tunning on Alphabets Dataset. In this assignment, you will be tasked with developing a classification model using Artificial Neural Networks (ANNs) to classify data points from the "Alphabets_data.csv" dataset into predefined categories of alphabets. This exercise aims to deepen your understanding of ANNs and the significant role hyperparameter tuning plays in enhancing model performance.
+###### Tasks
+  1. Data Exploration and Pre Processing
+  2. Model Implementation
+  3. Hyperparameter Tuning
+  4. Model Evaluation
+  5. Model Visualization
+  6. Tensor Board Vizualization
+
+## Assignment 19 (TEXT CLASSIFICATION USING NAIVE BAYES AND SENTIMENT ANALYSIS ON BLOG POSTS)
+In this assignment, you will work on the "blogs_categories.csv" dataset, which contains blog posts categorized into various themes. Your task will be to build a text classification model using the Naive Bayes algorithm to categorize the blog posts accurately. Furthermore, you will perform sentiment analysis to understand the general sentiment (positive, negative, neutral) expressed in these posts. This assignment will enhance your understanding of text classification, sentiment analysis, and the practical application of the Naive Bayes algorithm in Natural Language Processing (NLP).
+##### Tasks
+  1. Data Exploration and Pre-Processing
+  2. Text Preprocessing
+  3. TF-IDF Pre-Processing Vectorization
+  4. Naive Bayes for Text Classification
+  5. Sentimental Analysis
+  6. Evaluation and Visualization
