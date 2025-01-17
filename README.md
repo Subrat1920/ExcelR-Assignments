@@ -209,3 +209,11 @@ In this assignment, you will work on the "blogs_categories.csv" dataset, which c
   4. Naive Bayes for Text Classification
   5. Sentimental Analysis
   6. Evaluation and Visualization
+
+## Assignment 20 (FORECASTING EXCHANGE RATES USING TIME SERIES ANALYSIS)
+##### Tasks
+  1. Data Pre-Processing and Exploration
+  2. Model Building - ARIMA
+  3. Model Building - Exponential Smoothing
+  4. Evaluaiton and Comparison
+  5. Conclusion
