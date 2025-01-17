@@ -1,10 +1,7 @@
 # ExcelR-Assignments
 ### How to clone this repository
 To clone this repository, you can use the following command in your terminal:
-###### Open Terminal 
-      window + r 
-###### type the command
-      cmd 
+###### Open Terminal in the directory you want to clone this
 ###### Copy the URL 
       https://github.com/Subrat1920/ExcelR-Assignments.git
 ###### Clone this repository
